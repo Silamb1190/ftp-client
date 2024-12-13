@@ -1,2 +1,0 @@
-# ftp-client
-auto download
